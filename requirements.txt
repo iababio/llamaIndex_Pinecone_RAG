@@ -1,0 +1,7 @@
+huggingface_hub==0.22.2
+llama-index==0.9.34
+pinecone-client[grpc]==3.0.0
+arxiv==2.1.0
+altair==4
+streamlit
+transformers
